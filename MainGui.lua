@@ -1,1 +1,1 @@
-print("Working on this! it will bre ready in 3 hours!")
+game.Players.LocalPlayer:Kick("Script will be ready in 2 hours!")
