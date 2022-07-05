@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Error! Script fucked up")
+game.Players.LocalPlayer:Kick("1 hour..")
