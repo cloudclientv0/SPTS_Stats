@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("1 hour..")
+game.Players.LocalPlayer:Kick("In checking machinge...")
